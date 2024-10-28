@@ -22,8 +22,7 @@ jobs:
       - name: install reques
         run: pip install -r requirements.txt
       - name: Run tests
-        run: |
-          python -c print("1111")
+        run: pytest api/another/main.py
 
 
 
