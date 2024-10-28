@@ -26,7 +26,8 @@ jobs:
       - name: install dependencies 2
         run: certifi==2024.8.30
       - name: install dependencies 3
-        run: charset-normalizer==3.4.0
+     #   run: charset-normalizer==3.4.0
+        run: pip install charset-normalizer
       - name: install dependencies 4  
         run: colorama==0.4.6
       - name: install dependencies 5
