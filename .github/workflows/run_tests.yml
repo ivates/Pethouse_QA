@@ -19,34 +19,63 @@ jobs:
         run: sudo apt-get install google-chrome-stable
       - name: install dependencies
         run: attrs==24.2.0
+      - name: install dependencies 2
         run: certifi==2024.8.30
+      - name: install dependencies 3
         run: charset-normalizer==3.4.0
+      - name: install dependencies 4  
         run: colorama==0.4.6
+      - name: install dependencies 5
         run: exceptiongroup==1.2.2
+      - name: install dependencies 6
         run: idna==3.10
+      - name: install dependencies 7
         run: iniconfig==2.0.0
+      - name: install dependencies 8
         run: Jinja2==3.1.4
+      - name: install dependencies 9
         run: jsonschema==4.23.0
+      - name: install dependencies 10
         run: jsonschema-path==0.3.3
+      - name: install dependencies 11
         run: jsonschema-specifications==2023.12.1
+      - name: install dependencies 12
         run: lazy-object-proxy==1.10.0
+      - name: install dependencies 13
         run: MarkupSafe==3.0.2
+      - name: install dependencies 14
         run: openapi-schema-validator==0.6.2
+      - name: install dependencies 15
         run: openapi-spec-validator==0.7.1
+      - name: install dependencies 16
         run: packaging==24.1
+      - name: install dependencies 17
         run: pathable==0.4.3
+      - name: install dependencies 18
         run: pluggy==1.5.0
+      - name: install dependencies 19
         run: pyrsistent==0.20.0
+      - name: install dependencies 20
         run: pytest==8.3.3
+      - name: install dependencies 21
         run: PyYAML==6.0.2
+      - name: install dependencies 22
         run: referencing==0.35.1
+      - name: install dependencies 23
         run: requests==2.32.3
+      - name: install dependencies 24
         run: rfc3339-validator==0.1.4
+      - name: install dependencies 25
         run: rpds-py==0.20.0
+      - name: install dependencies 26
         run: six==1.16.0
+      - name: install dependencies 27
         run: swagger-unittest==0.3.6
+      - name: install dependencies 28
         run: tomli==2.0.2
+      - name: install dependencies 29
         run: urllib3==2.2.3
+      - name: install dependencies 30
         run: Werkzeug==3.0.4
 
       - name: Run tests
