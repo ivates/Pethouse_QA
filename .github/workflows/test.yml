@@ -22,8 +22,8 @@ jobs:
       - name: install reques
         run: pip install -r requirements.txt
       - name: Run tests
-        run: print("testtest")
-
+        run: |
+          python print("123")
 
 
 
