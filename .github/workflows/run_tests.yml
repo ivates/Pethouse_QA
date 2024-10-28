@@ -18,9 +18,39 @@ jobs:
       - name: Install Chtome
         run: sudo apt-get install google-chrome-stable
       - name: install dependencies
-        run: pip install -r requirements.txt
+        run: attrs==24.2.0
+certifi==2024.8.30
+charset-normalizer==3.4.0
+colorama==0.4.6
+exceptiongroup==1.2.2
+idna==3.10
+iniconfig==2.0.0
+Jinja2==3.1.4
+jsonschema==4.23.0
+jsonschema-path==0.3.3
+jsonschema-specifications==2023.12.1
+lazy-object-proxy==1.10.0
+MarkupSafe==3.0.2
+openapi-schema-validator==0.6.2
+openapi-spec-validator==0.7.1
+packaging==24.1
+pathable==0.4.3
+pluggy==1.5.0
+pyrsistent==0.20.0
+pytest==8.3.3
+PyYAML==6.0.2
+referencing==0.35.1
+requests==2.32.3
+rfc3339-validator==0.1.4
+rpds-py==0.20.0
+six==1.16.0
+swagger-unittest==0.3.6
+tomli==2.0.2
+urllib3==2.2.3
+Werkzeug==3.0.4
+
       - name: Run tests
-        run: requests
+        run: pytest
 
 
 
