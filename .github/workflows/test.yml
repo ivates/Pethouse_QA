@@ -23,7 +23,7 @@ jobs:
         run: pip install -r requirements.txt
       - name: Run tests
         run: |
-          python print("123")
+          python -c print("1111")
 
 
 
