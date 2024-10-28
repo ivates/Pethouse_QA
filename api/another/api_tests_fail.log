@@ -35,3 +35,5 @@
 2024-10-28 14:48:52,087 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'int'>, got <class 'str'>
 2024-10-28 14:48:52,087 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'int'>, got <class 'str'>
 2024-10-28 15:38:41,621 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'int'>, got <class 'str'>
+2024-10-28 16:58:53,331 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'int'>, got <class 'str'>
+2024-10-28 16:59:45,797 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'int'>, got <class 'str'>

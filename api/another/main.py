@@ -92,3 +92,5 @@ if __name__ == '__main__':
         logging.error(f"Test test_api_info_about failed: {str(e)}")
 
     logging.info('=== FINISH RUNNING THE TESTS ===')
+
+
