@@ -2,20 +2,6 @@ import logging
 import requests
 from logger import setup_logging ###
 
-# # Налаштування логування
-# setup_logging()
-# logger = logging.getLogger()
-#
-# base_url = 'https://pethouse.ua'
-# language = '/app/v1/ua'
-#
-# def log_request_and_response(response, endpoint):
-#     logger.info(f"Testing endpoint: {endpoint}")
-#     logger.info(f"Status code: {response.status_code}")
-#     logger.info(f"Headers: {response.headers}")
-#     logger.info(f"Response body: {response.json()}")
-
-
 # Налаштування логування
 setup_logging()
 logger = logging.getLogger()

@@ -37,3 +37,14 @@
 2024-10-28 15:38:41,621 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'int'>, got <class 'str'>
 2024-10-28 16:58:53,331 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'int'>, got <class 'str'>
 2024-10-28 16:59:45,797 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'int'>, got <class 'str'>
+2024-10-30 21:22:13,411 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'int'>, got <class 'str'>
+2024-10-30 21:23:03,127 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'int'>, got <class 'str'>
+2024-10-30 21:23:28,661 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'int'>, got <class 'str'>
+2024-10-30 21:24:56,374 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'int'>, got <class 'str'>
+2024-10-30 21:26:32,380 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'int'>, got <class 'str'>
+2024-10-30 21:29:03,770 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'int'>, got <class 'str'>
+2024-10-30 21:30:39,802 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'int'>, got <class 'str'>
+2024-10-30 21:32:01,686 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'int'>, got <class 'str'>
+2024-10-30 21:33:06,276 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'int'>, got <class 'str'>
+2024-10-30 21:35:39,169 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'int'>, got <class 'str'>
+2024-10-30 21:39:43,799 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'int'>, got <class 'str'>
