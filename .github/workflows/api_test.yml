@@ -2,7 +2,7 @@ name: Main Script Automation
 
 on:
   schedule:
-    - cron: '*/1 * * * *'  # Запуск кожні 5 хвилин
+    - cron: '* * * * *'  # Запуск щохвилини
   workflow_dispatch:  # Можливість запускати вручну
 
 jobs:
