@@ -25,4 +25,4 @@ jobs:
 
       - name: Run API tests
         run: |
-          pytest test_file.py
+          pytest main.py
