@@ -1,12 +1,12 @@
-name: API Test Automation
+name: Main Script Automation
 
 on:
   schedule:
-    - cron: '*/1 * * * *'  # Запуск кожні 5 хвилин
+    - cron: '*/1 * * * *'  # Запуск кожні 1 хвилин
   workflow_dispatch:  # Можливість запускати вручну
 
 jobs:
-  run-tests:
+  run-main:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,6 +23,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run API tests
+      - name: Run main.py
         run: |
-          pytest main.py
+          python main.py
