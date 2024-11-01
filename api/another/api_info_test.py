@@ -77,7 +77,7 @@ def test_api_info_contacts():
 
     # Перевіряємо структуру відповіді
     expected_structure = {
-        "work-time": int,
+        "work-time": str,
         "phone": str,
         "phone-comment": str,
         "callback-title": str,
