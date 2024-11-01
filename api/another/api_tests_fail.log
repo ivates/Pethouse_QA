@@ -50,3 +50,7 @@
 2024-10-30 21:39:43,799 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'int'>, got <class 'str'>
 2024-11-01 14:51:12,179 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'int'>, got <class 'str'>
 2024-11-01 14:51:40,931 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'int'>, got <class 'str'>
+2024-11-01 15:07:11,768 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'dict'>, got <class 'str'>
+2024-11-01 15:11:57,367 - ERROR - Test test_api_info_contacts failed: Key 'work-time' is of wrong type. Expected <class 'int'>, got <class 'str'>
+2024-11-01 15:12:54,299 - ERROR - Test test_api_info_contacts failed: name 'string' is not defined
+2024-11-01 15:12:55,923 - ERROR - Test test_api_info_contacts failed: name 'string' is not defined
